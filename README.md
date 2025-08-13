@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Chavan</h1>
-<h3 align="center">A Passionate Web Developer & Open Source Enthusiast</h3>
+<h3 align="center">Passionate Web Developer & Open Source Contributor</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=adityachavan&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan" /> 
 </p>
 
-- 🔭 I’m currently working on **AI Mobility Platform**
-- 🌱 I’m currently exploring **full-stack development while experimenting with AI models and intelligent automation**
+- 🔭 Currently working on **innovative web applications**
+- 🌱 Exploring **full-stack development with AI-driven features and intelligent automation**
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**
-- 📫 How to reach me: **adityapchavan0290@gmail.com**
+- 📫 Reach me at **adityapchavan0290@gmail.com**
 
 ---
 
@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavan&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="adityachavan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityachavan&show_icons=true&hide_border=true&theme=gruvbox" alt="adityachavan" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=adityachavan&theme=gruvbox&hide_border=true" alt="adityachavan" /></p>
