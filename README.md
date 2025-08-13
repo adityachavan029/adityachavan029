@@ -5,11 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=adityachavan&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan" /> 
 </p>
 
-- 🔭 I’m currently working on **TeerthMitra – AI Mobility Platform for Simhastha 2028**
-- 🌱 I’m currently learning **React.js, Tailwind CSS, and the MERN Stack**
-- 🎯 My goal is to **crack Google Summer of Code**
-- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, HTML, CSS**
-- 📫 How to reach me: **adityachavan@example.com**
+- 🔭 I’m currently working on **AI Mobility Platform**
+- 🌱 I’m currently exploring **full-stack development while experimenting with AI models and intelligent automation**
+- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**
+- 📫 How to reach me: **adityapchavan0290@gmail.com**
 
 ---
 
