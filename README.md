@@ -39,5 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachavan&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10" alt="adityachavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavan&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="adityachavan" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com?user=adityachavan&theme=gruvbox&hide_border=true" alt="adityachavan" /></p>
