@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Chavan</h1>
 <h3 align="center">Passionate Web Developer & Open Source Contributor</h3>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=adityachavan&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan" /> 
-</p>
+</p> -->
 
 - 🔭 Currently working on **innovative web applications**
 - 🌱 Exploring **full-stack development with AI-driven features and intelligent automation**
