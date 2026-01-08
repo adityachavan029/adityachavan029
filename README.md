@@ -36,6 +36,5 @@
 
 ---
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachavan&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10" alt="adityachavan" /></p>
- -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachavan&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10" alt="adityachavan" /></p> -->
 
